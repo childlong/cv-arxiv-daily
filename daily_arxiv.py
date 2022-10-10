@@ -225,9 +225,11 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["OVOD"]                = "\"Open-vocabulary Object Detection\"+OR+\"Open-Vocabulary Object Detection\""
-    keywords["OV"]                 = "Open-vocabulary"
-    keywords["Prompt"]                = "Prompt"
+    keywords["OVOD"] = "\"Open-vocabulary Object Detection\"+OR+\"Open-Vocabulary Object Detection\""
+    keywords["OpenVocabularyOD"] = "\"Open-vocabulary Object Detection\"OR\"Open-Vocabulary Object Detection\""
+    keywords["OV"] = "Open-vocabulary"
+    keywords["OpenVocabulary"] = "Open-Vocabulary"
+    keywords["Prompt"] = "Prompt"
 
     for topic,keyword in keywords.items():
  
