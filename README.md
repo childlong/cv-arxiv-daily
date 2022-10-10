@@ -16,6 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-07**|**SpeechUT: Bridging Speech and Text with Hidden-Unit for Encoder-Decoder Based Speech-Text Pre-training**|Ziqiang Zhang et.al.|[2210.03730v1](http://arxiv.org/abs/2210.03730v1)|**[link](https://github.com/microsoft/speecht5)**|
+|**2022-10-07**|**Few-Shot Anaphora Resolution in Scientific Protocols via Mixtures of In-Context Experts**|Nghia T. Le et.al.|[2210.03690v1](http://arxiv.org/abs/2210.03690v1)|null|
+|**2022-10-07**|**Automatic Chain of Thought Prompting in Large Language Models**|Zhuosheng Zhang et.al.|[2210.03493v1](http://arxiv.org/abs/2210.03493v1)|**[link](https://github.com/amazon-research/auto-cot)**|
+|**2022-10-07**|**Measuring and Narrowing the Compositionality Gap in Language Models**|Ofir Press et.al.|[2210.03350v1](http://arxiv.org/abs/2210.03350v1)|**[link](https://github.com/ofirpress/self-ask)**|
+|**2022-10-07**|**Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding**|Kenton Lee et.al.|[2210.03347v1](http://arxiv.org/abs/2210.03347v1)|null|
+|**2022-10-07**|**A Unified Framework for Multi-intent Spoken Language Understanding with prompting**|Feifan Song et.al.|[2210.03337v1](http://arxiv.org/abs/2210.03337v1)|null|
+|**2022-10-07**|**Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding**|Zhichao Yang et.al.|[2210.03304v1](http://arxiv.org/abs/2210.03304v1)|null|
+|**2022-10-06**|**Small Character Models Match Large Word Models for Autocomplete Under Memory Constraints**|Ganesh Jawahar et.al.|[2210.03251v1](http://arxiv.org/abs/2210.03251v1)|null|
+|**2022-10-06**|**Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models**|David Wingate et.al.|[2210.03162v1](http://arxiv.org/abs/2210.03162v1)|null|
 |**2022-10-06**|**MaPLe: Multi-modal Prompt Learning**|Muhammad Uzair Khattak et.al.|[2210.03117v1](http://arxiv.org/abs/2210.03117v1)|null|
 |**2022-10-06**|**CLIP model is an Efficient Continual Learner**|Vishal Thengane et.al.|[2210.03114v1](http://arxiv.org/abs/2210.03114v1)|**[link](https://github.com/vgthengane/continual-clip)**|
 |**2022-10-06**|**VIMA: General Robot Manipulation with Multimodal Prompts**|Yunfan Jiang et.al.|[2210.03094v1](http://arxiv.org/abs/2210.03094v1)|null|
