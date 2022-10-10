@@ -25,7 +25,7 @@
 |**2022-10-07**|**Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding**|Zhichao Yang et.al.|[2210.03304v1](http://arxiv.org/abs/2210.03304v1)|null|
 |**2022-10-06**|**Small Character Models Match Large Word Models for Autocomplete Under Memory Constraints**|Ganesh Jawahar et.al.|[2210.03251v1](http://arxiv.org/abs/2210.03251v1)|null|
 |**2022-10-06**|**Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models**|David Wingate et.al.|[2210.03162v1](http://arxiv.org/abs/2210.03162v1)|null|
-|**2022-10-06**|**MaPLe: Multi-modal Prompt Learning**|Muhammad Uzair Khattak et.al.|[2210.03117v1](http://arxiv.org/abs/2210.03117v1)|null|
+|**2022-10-06**|**MaPLe: Multi-modal Prompt Learning**|Muhammad Uzair Khattak et.al.|[2210.03117v1](http://arxiv.org/abs/2210.03117v1)|**[link](https://github.com/muzairkhattak/multimodal-prompt-learning)**|
 |**2022-10-06**|**CLIP model is an Efficient Continual Learner**|Vishal Thengane et.al.|[2210.03114v1](http://arxiv.org/abs/2210.03114v1)|**[link](https://github.com/vgthengane/continual-clip)**|
 |**2022-10-06**|**VIMA: General Robot Manipulation with Multimodal Prompts**|Yunfan Jiang et.al.|[2210.03094v1](http://arxiv.org/abs/2210.03094v1)|null|
 |**2022-10-06**|**Language Models are Multilingual Chain-of-Thought Reasoners**|Freda Shi et.al.|[2210.03057v1](http://arxiv.org/abs/2210.03057v1)|**[link](https://github.com/google-research/url-nlp)**|
