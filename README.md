@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-10**|**CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation**|Tanay Dixit et.al.|[2210.04873v1](http://arxiv.org/abs/2210.04873v1)|null|
+|**2022-10-10**|**FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training**|Adrian Bulat et.al.|[2210.04845v1](http://arxiv.org/abs/2210.04845v1)|null|
+|**2022-10-10**|**Visual Prompt Tuning for Test-time Domain Adaptation**|Yunhe Gao et.al.|[2210.04831v1](http://arxiv.org/abs/2210.04831v1)|null|
+|**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726v1](http://arxiv.org/abs/2210.04726v1)|null|
+|**2022-10-10**|**Language Models Are Poor Learners of Directional Inference**|Tianyi Li et.al.|[2210.04695v1](http://arxiv.org/abs/2210.04695v1)|null|
+|**2022-10-10**|**XPrompt: Exploring the Extreme of Prompt Tuning**|Fang Ma et.al.|[2210.04457v1](http://arxiv.org/abs/2210.04457v1)|null|
+|**2022-10-09**|**Recent ALICE results on quarkonium production in nuclear collisions**|Biswarup Paul et.al.|[2210.04356v1](http://arxiv.org/abs/2210.04356v1)|null|
+|**2022-10-09**|**ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Models**|Jiannan Xiang et.al.|[2210.04325v1](http://arxiv.org/abs/2210.04325v1)|null|
+|**2022-10-09**|**Learning to Decompose Visual Features with Latent Textual Prompts**|Feng Wang et.al.|[2210.04287v1](http://arxiv.org/abs/2210.04287v1)|null|
+|**2022-10-09**|**On some features of the solar proton event on 2021 October 28 (GLE73)**|I. M. Chertok et.al.|[2210.04238v1](http://arxiv.org/abs/2210.04238v1)|null|
 |**2022-10-07**|**SpeechUT: Bridging Speech and Text with Hidden-Unit for Encoder-Decoder Based Speech-Text Pre-training**|Ziqiang Zhang et.al.|[2210.03730v1](http://arxiv.org/abs/2210.03730v1)|**[link](https://github.com/microsoft/speecht5)**|
 |**2022-10-07**|**Few-Shot Anaphora Resolution in Scientific Protocols via Mixtures of In-Context Experts**|Nghia T. Le et.al.|[2210.03690v1](http://arxiv.org/abs/2210.03690v1)|null|
 |**2022-10-07**|**Automatic Chain of Thought Prompting in Large Language Models**|Zhuosheng Zhang et.al.|[2210.03493v1](http://arxiv.org/abs/2210.03493v1)|**[link](https://github.com/amazon-research/auto-cot)**|
