@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.10
+## Updated on 2022.10.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@
 |**2022-10-07**|**Measuring and Narrowing the Compositionality Gap in Language Models**|Ofir Press et.al.|[2210.03350v1](http://arxiv.org/abs/2210.03350v1)|**[link](https://github.com/ofirpress/self-ask)**|
 |**2022-10-07**|**Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding**|Kenton Lee et.al.|[2210.03347v1](http://arxiv.org/abs/2210.03347v1)|null|
 |**2022-10-07**|**A Unified Framework for Multi-intent Spoken Language Understanding with prompting**|Feifan Song et.al.|[2210.03337v1](http://arxiv.org/abs/2210.03337v1)|null|
-|**2022-10-07**|**Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding**|Zhichao Yang et.al.|[2210.03304v1](http://arxiv.org/abs/2210.03304v1)|null|
+|**2022-10-07**|**Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding**|Zhichao Yang et.al.|[2210.03304v1](http://arxiv.org/abs/2210.03304v1)|**[link](https://github.com/whaleloops/KEPT)**|
 |**2022-10-06**|**Small Character Models Match Large Word Models for Autocomplete Under Memory Constraints**|Ganesh Jawahar et.al.|[2210.03251v1](http://arxiv.org/abs/2210.03251v1)|null|
 |**2022-10-06**|**Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models**|David Wingate et.al.|[2210.03162v1](http://arxiv.org/abs/2210.03162v1)|null|
 |**2022-10-06**|**MaPLe: Multi-modal Prompt Learning**|Muhammad Uzair Khattak et.al.|[2210.03117v1](http://arxiv.org/abs/2210.03117v1)|**[link](https://github.com/muzairkhattak/multimodal-prompt-learning)**|
@@ -36,7 +36,7 @@
 |**2022-10-06**|**Distilling Task-specific Logical Rules from Large Pre-trained Models**|Tao Chen et.al.|[2210.02768v1](http://arxiv.org/abs/2210.02768v1)|null|
 |**2022-10-06**|**Rapid reconstruction of compact binary sources using meshfree approximation**|Lalit Pathak et.al.|[2210.02706v1](http://arxiv.org/abs/2210.02706v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
