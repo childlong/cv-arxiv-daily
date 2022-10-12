@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.11
+## Updated on 2022.10.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@ layout: default
 |**2022-10-10**|**Language Models Are Poor Learners of Directional Inference**|Tianyi Li et.al.|[2210.04695v1](http://arxiv.org/abs/2210.04695v1)|**[link](https://github.com/teddy-li/lm-dirctionalinference)**|
 |**2022-10-10**|**XPrompt: Exploring the Extreme of Prompt Tuning**|Fang Ma et.al.|[2210.04457v1](http://arxiv.org/abs/2210.04457v1)|null|
 |**2022-10-09**|**Recent ALICE results on quarkonium production in nuclear collisions**|Biswarup Paul et.al.|[2210.04356v1](http://arxiv.org/abs/2210.04356v1)|null|
-|**2022-10-09**|**ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Models**|Jiannan Xiang et.al.|[2210.04325v1](http://arxiv.org/abs/2210.04325v1)|**[link](https://github.com/szxiangjn/any-shot-data2text)**|
+|**2022-10-11**|**ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Models**|Jiannan Xiang et.al.|[2210.04325v2](http://arxiv.org/abs/2210.04325v2)|**[link](https://github.com/szxiangjn/any-shot-data2text)**|
 |**2022-10-09**|**Learning to Decompose Visual Features with Latent Textual Prompts**|Feng Wang et.al.|[2210.04287v1](http://arxiv.org/abs/2210.04287v1)|null|
 |**2022-10-09**|**On some features of the solar proton event on 2021 October 28 (GLE73)**|I. M. Chertok et.al.|[2210.04238v1](http://arxiv.org/abs/2210.04238v1)|null|
 |**2022-10-07**|**SpeechUT: Bridging Speech and Text with Hidden-Unit for Encoder-Decoder Based Speech-Text Pre-training**|Ziqiang Zhang et.al.|[2210.03730v1](http://arxiv.org/abs/2210.03730v1)|**[link](https://github.com/microsoft/speecht5)**|
@@ -50,7 +50,7 @@ layout: default
 |**2022-10-06**|**Distilling Task-specific Logical Rules from Large Pre-trained Models**|Tao Chen et.al.|[2210.02768v1](http://arxiv.org/abs/2210.02768v1)|null|
 |**2022-10-06**|**Rapid reconstruction of compact binary sources using meshfree approximation**|Lalit Pathak et.al.|[2210.02706v1](http://arxiv.org/abs/2210.02706v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221012>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
