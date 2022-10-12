@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-11**|**Understanding or Manipulation: Rethinking Online Performance Gains of Modern Recommender Systems**|Zhengbang Zhu et.al.|[2210.05662v1](http://arxiv.org/abs/2210.05662v1)|null|
+|**2022-10-11**|**A Kernel-Based View of Language Model Fine-Tuning**|Sadhika Malladi et.al.|[2210.05643v1](http://arxiv.org/abs/2210.05643v1)|**[link](https://github.com/princeton-nlp/lm-kernel-ft)**|
+|**2022-10-11**|**Rethinking the Event Coding Pipeline with Prompt Entailment**|Clément Lefebvre et.al.|[2210.05257v1](http://arxiv.org/abs/2210.05257v1)|**[link](https://github.com/clement-lef/pr-ent)**|
+|**2022-10-11**|**Can Language Models Be Specific? How?**|Jie Huang et.al.|[2210.05159v1](http://arxiv.org/abs/2210.05159v1)|null|
+|**2022-10-10**|**REV: Information-Theoretic Evaluation of Free-Text Rationales**|Hanjie Chen et.al.|[2210.04982v1](http://arxiv.org/abs/2210.04982v1)|null|
 |**2022-10-10**|**CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation**|Tanay Dixit et.al.|[2210.04873v1](http://arxiv.org/abs/2210.04873v1)|**[link](https://github.com/tanay2001/core)**|
 |**2022-10-10**|**FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training**|Adrian Bulat et.al.|[2210.04845v1](http://arxiv.org/abs/2210.04845v1)|null|
 |**2022-10-10**|**Visual Prompt Tuning for Test-time Domain Adaptation**|Yunhe Gao et.al.|[2210.04831v1](http://arxiv.org/abs/2210.04831v1)|null|
