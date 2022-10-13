@@ -14,6 +14,13 @@
 
 ## Prompt
 
+- 2022-10-12, **Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers**, Jochem Loedeman et.al., Paper: [http://arxiv.org/abs/2210.06466v1](http://arxiv.org/abs/2210.06466v1), Code: **[https://github.com/jochemloedeman/pgn](https://github.com/jochemloedeman/pgn)**
+- 2022-10-12, **Probing Commonsense Knowledge in Pre-trained Language Models with Sense-level Precision and Expanded Vocabulary**, Daniel Loureiro et.al., Paper: [http://arxiv.org/abs/2210.06376v1](http://arxiv.org/abs/2210.06376v1), Code: **[https://github.com/danlou/synbert](https://github.com/danlou/synbert)**
+- 2022-10-12, **Context Generation Improves Open Domain Question Answering**, Dan Su et.al., Paper: [http://arxiv.org/abs/2210.06349v1](http://arxiv.org/abs/2210.06349v1)
+- 2022-10-12, **Visual Prompting for Adversarial Robustness**, Aochuan Chen et.al., Paper: [http://arxiv.org/abs/2210.06284v1](http://arxiv.org/abs/2210.06284v1)
+- 2022-10-12, **Towards visually prompted keyword localisation for zero-resource spoken languages**, Leanne Nortje et.al., Paper: [http://arxiv.org/abs/2210.06229v1](http://arxiv.org/abs/2210.06229v1)
+- 2022-10-12, **Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning**, Hui-Chi Kuo et.al., Paper: [http://arxiv.org/abs/2210.05901v1](http://arxiv.org/abs/2210.05901v1)
+- 2022-10-11, **CLIP also Understands Text: Prompting CLIP for Phrase Understanding**, An Yan et.al., Paper: [http://arxiv.org/abs/2210.05836v1](http://arxiv.org/abs/2210.05836v1)
 - 2022-10-11, **Understanding or Manipulation: Rethinking Online Performance Gains of Modern Recommender Systems**, Zhengbang Zhu et.al., Paper: [http://arxiv.org/abs/2210.05662v1](http://arxiv.org/abs/2210.05662v1)
 - 2022-10-11, **A Kernel-Based View of Language Model Fine-Tuning**, Sadhika Malladi et.al., Paper: [http://arxiv.org/abs/2210.05643v1](http://arxiv.org/abs/2210.05643v1), Code: **[https://github.com/princeton-nlp/lm-kernel-ft](https://github.com/princeton-nlp/lm-kernel-ft)**
 - 2022-10-11, **Rethinking the Event Coding Pipeline with Prompt Entailment**, Clément Lefebvre et.al., Paper: [http://arxiv.org/abs/2210.05257v1](http://arxiv.org/abs/2210.05257v1), Code: **[https://github.com/clement-lef/pr-ent](https://github.com/clement-lef/pr-ent)**
