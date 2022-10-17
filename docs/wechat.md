@@ -14,6 +14,16 @@
 
 ## Prompt
 
+- 2022-10-14, **MiQA: A Benchmark for Inference on Metaphorical Questions**, Iulia-Maria Comsa et.al., Paper: [http://arxiv.org/abs/2210.07993v1](http://arxiv.org/abs/2210.07993v1)
+- 2022-10-14, **The Possible Cause of the 40 SpaceX Starlink Satellite Losses in February 2022: Prompt Penetrating Electric Fields and the Dayside Equatorial and Midlatitude Ionospheric Convective Uplift**, Bruce T. Tsurutani et.al., Paper: [http://arxiv.org/abs/2210.07902v1](http://arxiv.org/abs/2210.07902v1)
+- 2022-10-14, **One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations**, Yiming Zhu et.al., Paper: [http://arxiv.org/abs/2210.07883v1](http://arxiv.org/abs/2210.07883v1)
+- 2022-10-14, **Robust Preference Learning for Storytelling via Contrastive Reinforcement Learning**, Louis Castricato et.al., Paper: [http://arxiv.org/abs/2210.07792v1](http://arxiv.org/abs/2210.07792v1)
+- 2022-10-14, **Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**, Yingxiu Zhao et.al., Paper: [http://arxiv.org/abs/2210.07783v1](http://arxiv.org/abs/2210.07783v1)
+- 2022-10-14, **Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey**, Sachin Kumar et.al., Paper: [http://arxiv.org/abs/2210.07700v1](http://arxiv.org/abs/2210.07700v1)
+- 2022-10-14, **Enabling Classifiers to Make Judgements Explicitly Aligned with Human Values**, Yejin Bang et.al., Paper: [http://arxiv.org/abs/2210.07652v1](http://arxiv.org/abs/2210.07652v1)
+- 2022-10-14, **Multi-Task Pre-Training of Modular Prompt for Few-Shot Learning**, Tianxiang Sun et.al., Paper: [http://arxiv.org/abs/2210.07565v1](http://arxiv.org/abs/2210.07565v1)
+- 2022-10-13, **Bootstrapping Multilingual Semantic Parsers using Large Language Models**, Abhijeet Awasthi et.al., Paper: [http://arxiv.org/abs/2210.07313v1](http://arxiv.org/abs/2210.07313v1)
+- 2022-10-13, **Joint Reasoning on Hybrid-knowledge sources for Task-Oriented Dialog**, Mayank Mishra et.al., Paper: [http://arxiv.org/abs/2210.07295v1](http://arxiv.org/abs/2210.07295v1)
 - 2022-10-13, **Language Model Decoding as Likelihood-Utility Alignment**, Martin Josifoski et.al., Paper: [http://arxiv.org/abs/2210.07228v1](http://arxiv.org/abs/2210.07228v1)
 - 2022-10-13, **Unified Vision and Language Prompt Learning**, Yuhang Zang et.al., Paper: [http://arxiv.org/abs/2210.07225v1](http://arxiv.org/abs/2210.07225v1), Code: **[https://github.com/yuhangzang/upt](https://github.com/yuhangzang/upt)**
 - 2022-10-13, **MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting**, Oscar Mañas et.al., Paper: [http://arxiv.org/abs/2210.07179v1](http://arxiv.org/abs/2210.07179v1)
