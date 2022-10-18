@@ -20,6 +20,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-17**|**Heavy Neutral Leptons at the Electron-Ion Collider**|Brian Batell et.al.|[2210.09287v1](http://arxiv.org/abs/2210.09287v1)|null|
+|**2022-10-17**|**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**|Mirac Suzgun et.al.|[2210.09261v1](http://arxiv.org/abs/2210.09261v1)|null|
+|**2022-10-17**|**Prompting GPT-3 To Be Reliable**|Chenglei Si et.al.|[2210.09150v1](http://arxiv.org/abs/2210.09150v1)|**[link](https://github.com/noviscl/gpt3-reliability)**|
+|**2022-10-16**|**Data-Efficient Pipeline for Offline Reinforcement Learning with Limited Data**|Allen Nie et.al.|[2210.08642v1](http://arxiv.org/abs/2210.08642v1)|null|
+|**2022-10-16**|**Perceptual-Score: A Psychophysical Measure for Assessing the Biological Plausibility of Visual Recognition Models**|Brandon RichardWebster et.al.|[2210.08632v1](http://arxiv.org/abs/2210.08632v1)|null|
+|**2022-10-16**|**NormSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly**|Yi R. Fung et.al.|[2210.08604v1](http://arxiv.org/abs/2210.08604v1)|null|
+|**2022-10-16**|**On $\mathcal{I}$-covering images of metric spaces**|Xiangeng Zhou et.al.|[2210.08544v1](http://arxiv.org/abs/2210.08544v1)|null|
+|**2022-10-16**|**Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding**|Jianing Wang et.al.|[2210.08536v1](http://arxiv.org/abs/2210.08536v1)|null|
+|**2022-10-15**|**Improving Radiology Summarization with Radiograph and Anatomy Prompts**|Jinpeng Hu et.al.|[2210.08303v1](http://arxiv.org/abs/2210.08303v1)|null|
 |**2022-10-14**|**MiQA: A Benchmark for Inference on Metaphorical Questions**|Iulia-Maria Comsa et.al.|[2210.07993v1](http://arxiv.org/abs/2210.07993v1)|null|
 |**2022-10-14**|**The Possible Cause of the 40 SpaceX Starlink Satellite Losses in February 2022: Prompt Penetrating Electric Fields and the Dayside Equatorial and Midlatitude Ionospheric Convective Uplift**|Bruce T. Tsurutani et.al.|[2210.07902v1](http://arxiv.org/abs/2210.07902v1)|null|
 |**2022-10-17**|**One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations**|Yiming Zhu et.al.|[2210.07883v2](http://arxiv.org/abs/2210.07883v2)|**[link](https://github.com/kumapowerliu/ffclip)**|
