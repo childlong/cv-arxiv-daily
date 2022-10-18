@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.10.17
+> Updated on 2022.10.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 
 - 2022-10-14, **MiQA: A Benchmark for Inference on Metaphorical Questions**, Iulia-Maria Comsa et.al., Paper: [http://arxiv.org/abs/2210.07993v1](http://arxiv.org/abs/2210.07993v1)
 - 2022-10-14, **The Possible Cause of the 40 SpaceX Starlink Satellite Losses in February 2022: Prompt Penetrating Electric Fields and the Dayside Equatorial and Midlatitude Ionospheric Convective Uplift**, Bruce T. Tsurutani et.al., Paper: [http://arxiv.org/abs/2210.07902v1](http://arxiv.org/abs/2210.07902v1)
-- 2022-10-14, **One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations**, Yiming Zhu et.al., Paper: [http://arxiv.org/abs/2210.07883v1](http://arxiv.org/abs/2210.07883v1)
+- 2022-10-17, **One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations**, Yiming Zhu et.al., Paper: [http://arxiv.org/abs/2210.07883v2](http://arxiv.org/abs/2210.07883v2), Code: **[https://github.com/kumapowerliu/ffclip](https://github.com/kumapowerliu/ffclip)**
 - 2022-10-14, **Robust Preference Learning for Storytelling via Contrastive Reinforcement Learning**, Louis Castricato et.al., Paper: [http://arxiv.org/abs/2210.07792v1](http://arxiv.org/abs/2210.07792v1)
 - 2022-10-14, **Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**, Yingxiu Zhao et.al., Paper: [http://arxiv.org/abs/2210.07783v1](http://arxiv.org/abs/2210.07783v1)
 - 2022-10-14, **Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey**, Sachin Kumar et.al., Paper: [http://arxiv.org/abs/2210.07700v1](http://arxiv.org/abs/2210.07700v1)
@@ -76,7 +76,7 @@
 - 2022-10-06, **Distilling Task-specific Logical Rules from Large Pre-trained Models**, Tao Chen et.al., Paper: [http://arxiv.org/abs/2210.02768v1](http://arxiv.org/abs/2210.02768v1)
 - 2022-10-06, **Rapid reconstruction of compact binary sources using meshfree approximation**, Lalit Pathak et.al., Paper: [http://arxiv.org/abs/2210.02706v1](http://arxiv.org/abs/2210.02706v1)
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
