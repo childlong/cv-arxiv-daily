@@ -16,8 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-18**|**Finding high-redshift gamma-ray bursts in tandem near-infrared and optical surveys**|S. Campana et.al.|[2210.09749v1](http://arxiv.org/abs/2210.09749v1)|null|
+|**2022-10-18**|**DisCup: Discriminator Cooperative Unlikelihood Prompt-tuning for Controllable Text Generation**|Hanqing Zhang et.al.|[2210.09551v1](http://arxiv.org/abs/2210.09551v1)|**[link](https://github.com/littlehacker26/discriminator-cooperative-unlikelihood-prompt-tuning)**|
+|**2022-10-18**|**Systematicity in GPT-3's Interpretation of Novel English Noun Compounds**|Siyan Li et.al.|[2210.09492v1](http://arxiv.org/abs/2210.09492v1)|null|
+|**2022-10-17**|**Using Bottleneck Adapters to Identify Cancer in Clinical Notes under Low-Resource Constraints**|Omid Rohanian et.al.|[2210.09440v1](http://arxiv.org/abs/2210.09440v1)|null|
 |**2022-10-17**|**Heavy Neutral Leptons at the Electron-Ion Collider**|Brian Batell et.al.|[2210.09287v1](http://arxiv.org/abs/2210.09287v1)|null|
-|**2022-10-17**|**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**|Mirac Suzgun et.al.|[2210.09261v1](http://arxiv.org/abs/2210.09261v1)|null|
+|**2022-10-17**|**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**|Mirac Suzgun et.al.|[2210.09261v1](http://arxiv.org/abs/2210.09261v1)|**[link](https://github.com/suzgunmirac/big-bench-hard)**|
 |**2022-10-17**|**Prompting GPT-3 To Be Reliable**|Chenglei Si et.al.|[2210.09150v1](http://arxiv.org/abs/2210.09150v1)|**[link](https://github.com/noviscl/gpt3-reliability)**|
 |**2022-10-16**|**Data-Efficient Pipeline for Offline Reinforcement Learning with Limited Data**|Allen Nie et.al.|[2210.08642v1](http://arxiv.org/abs/2210.08642v1)|null|
 |**2022-10-16**|**Perceptual-Score: A Psychophysical Measure for Assessing the Biological Plausibility of Visual Recognition Models**|Brandon RichardWebster et.al.|[2210.08632v1](http://arxiv.org/abs/2210.08632v1)|null|
