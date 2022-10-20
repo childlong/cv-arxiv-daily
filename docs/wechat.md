@@ -14,6 +14,14 @@
 
 ## Prompt
 
+- 2022-10-19, **TabLLM: Few-shot Classification of Tabular Data with Large Language Models**, Stefan Hegselmann et.al., Paper: [http://arxiv.org/abs/2210.10723v1](http://arxiv.org/abs/2210.10723v1)
+- 2022-10-19, **Schema-aware Reference as Prompt Improves Data-Efficient Relational Triple and Event Extraction**, Yunzhi Yao et.al., Paper: [http://arxiv.org/abs/2210.10709v1](http://arxiv.org/abs/2210.10709v1), Code: **[https://github.com/zjunlp/RAP](https://github.com/zjunlp/RAP)**
+- 2022-10-19, **Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study**, Xin Xu et.al., Paper: [http://arxiv.org/abs/2210.10678v1](http://arxiv.org/abs/2210.10678v1), Code: **[https://github.com/zjunlp/lrebench](https://github.com/zjunlp/lrebench)**
+- 2022-10-19, **DALLE-2 is Seeing Double: Flaws in Word-to-Concept Mapping in Text2Image Models**, Royi Rassin et.al., Paper: [http://arxiv.org/abs/2210.10606v1](http://arxiv.org/abs/2210.10606v1)
+- 2022-10-19, **Language Does More Than Describe: On The Lack Of Figurative Speech in Text-To-Image Models**, Ricardo Kleinlein et.al., Paper: [http://arxiv.org/abs/2210.10578v1](http://arxiv.org/abs/2210.10578v1)
+- 2022-10-19, **Hybrid-Regressive Neural Machine Translation**, Qiang Wang et.al., Paper: [http://arxiv.org/abs/2210.10416v1](http://arxiv.org/abs/2210.10416v1)
+- 2022-10-19, **CPL: Counterfactual Prompt Learning for Vision and Language Models**, Xuehai He et.al., Paper: [http://arxiv.org/abs/2210.10362v1](http://arxiv.org/abs/2210.10362v1)
+- 2022-10-19, **Continued Pretraining for Better Zero- and Few-Shot Promptability**, Zhaofeng Wu et.al., Paper: [http://arxiv.org/abs/2210.10258v1](http://arxiv.org/abs/2210.10258v1)
 - 2022-10-18, **Finding high-redshift gamma-ray bursts in tandem near-infrared and optical surveys**, S. Campana et.al., Paper: [http://arxiv.org/abs/2210.09749v1](http://arxiv.org/abs/2210.09749v1)
 - 2022-10-18, **DisCup: Discriminator Cooperative Unlikelihood Prompt-tuning for Controllable Text Generation**, Hanqing Zhang et.al., Paper: [http://arxiv.org/abs/2210.09551v1](http://arxiv.org/abs/2210.09551v1), Code: **[https://github.com/littlehacker26/discriminator-cooperative-unlikelihood-prompt-tuning](https://github.com/littlehacker26/discriminator-cooperative-unlikelihood-prompt-tuning)**
 - 2022-10-18, **Systematicity in GPT-3's Interpretation of Novel English Noun Compounds**, Siyan Li et.al., Paper: [http://arxiv.org/abs/2210.09492v1](http://arxiv.org/abs/2210.09492v1)
