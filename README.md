@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**ObSynth: An Interactive Synthesis System for Generating Object Models from Natural Language Specifications**|Alex Gu et.al.|[2210.11468v1](http://arxiv.org/abs/2210.11468v1)|null|
+|**2022-10-20**|**DiffEdit: Diffusion-based semantic image editing with mask guidance**|Guillaume Couairon et.al.|[2210.11427v1](http://arxiv.org/abs/2210.11427v1)|null|
+|**2022-10-20**|**Scaling Instruction-Finetuned Language Models**|Hyung Won Chung et.al.|[2210.11416v1](http://arxiv.org/abs/2210.11416v1)|**[link](https://github.com/google-research/t5x)**|
+|**2022-10-20**|**Light speed variation from GRB 221009A**|Jie Zhu et.al.|[2210.11376v1](http://arxiv.org/abs/2210.11376v1)|null|
+|**2022-10-20**|**Estimating fine age structure and time trends in human contact patterns from coarse contact data: the Bayesian rate consistency model**|Shozen Dan et.al.|[2210.11358v1](http://arxiv.org/abs/2210.11358v1)|null|
+|**2022-10-20**|**Tele-Knowledge Pre-training for Fault Analysis**|Zhuo Chen et.al.|[2210.11298v1](http://arxiv.org/abs/2210.11298v1)|null|
+|**2022-10-20**|**Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**|Xiangyang Liu et.al.|[2210.11292v1](http://arxiv.org/abs/2210.11292v1)|null|
+|**2022-10-20**|**TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition**|Yongwei Chen et.al.|[2210.11277v1](http://arxiv.org/abs/2210.11277v1)|null|
+|**2022-10-20**|**Pre-training Language Models with Deterministic Factual Knowledge**|Shaobo Li et.al.|[2210.11165v1](http://arxiv.org/abs/2210.11165v1)|null|
+|**2022-10-19**|**Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models**|Yue Zhang et.al.|[2210.10841v1](http://arxiv.org/abs/2210.10841v1)|null|
 |**2022-10-19**|**TabLLM: Few-shot Classification of Tabular Data with Large Language Models**|Stefan Hegselmann et.al.|[2210.10723v1](http://arxiv.org/abs/2210.10723v1)|null|
 |**2022-10-19**|**Schema-aware Reference as Prompt Improves Data-Efficient Relational Triple and Event Extraction**|Yunzhi Yao et.al.|[2210.10709v1](http://arxiv.org/abs/2210.10709v1)|**[link](https://github.com/zjunlp/RAP)**|
 |**2022-10-19**|**Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study**|Xin Xu et.al.|[2210.10678v1](http://arxiv.org/abs/2210.10678v1)|**[link](https://github.com/zjunlp/lrebench)**|
