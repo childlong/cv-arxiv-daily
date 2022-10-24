@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.10.23
+> Updated on 2022.10.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,11 +16,11 @@
 
 - 2022-10-20, **ObSynth: An Interactive Synthesis System for Generating Object Models from Natural Language Specifications**, Alex Gu et.al., Paper: [http://arxiv.org/abs/2210.11468v1](http://arxiv.org/abs/2210.11468v1)
 - 2022-10-20, **DiffEdit: Diffusion-based semantic image editing with mask guidance**, Guillaume Couairon et.al., Paper: [http://arxiv.org/abs/2210.11427v1](http://arxiv.org/abs/2210.11427v1)
-- 2022-10-20, **Scaling Instruction-Finetuned Language Models**, Hyung Won Chung et.al., Paper: [http://arxiv.org/abs/2210.11416v1](http://arxiv.org/abs/2210.11416v1), Code: **[https://github.com/google-research/t5x](https://github.com/google-research/t5x)**
+- 2022-10-21, **Scaling Instruction-Finetuned Language Models**, Hyung Won Chung et.al., Paper: [http://arxiv.org/abs/2210.11416v2](http://arxiv.org/abs/2210.11416v2), Code: **[https://github.com/google-research/t5x](https://github.com/google-research/t5x)**
 - 2022-10-20, **Light speed variation from GRB 221009A**, Jie Zhu et.al., Paper: [http://arxiv.org/abs/2210.11376v1](http://arxiv.org/abs/2210.11376v1)
 - 2022-10-20, **Estimating fine age structure and time trends in human contact patterns from coarse contact data: the Bayesian rate consistency model**, Shozen Dan et.al., Paper: [http://arxiv.org/abs/2210.11358v1](http://arxiv.org/abs/2210.11358v1)
 - 2022-10-20, **Tele-Knowledge Pre-training for Fault Analysis**, Zhuo Chen et.al., Paper: [http://arxiv.org/abs/2210.11298v1](http://arxiv.org/abs/2210.11298v1)
-- 2022-10-20, **Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**, Xiangyang Liu et.al., Paper: [http://arxiv.org/abs/2210.11292v1](http://arxiv.org/abs/2210.11292v1)
+- 2022-10-21, **Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**, Xiangyang Liu et.al., Paper: [http://arxiv.org/abs/2210.11292v2](http://arxiv.org/abs/2210.11292v2)
 - 2022-10-20, **TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition**, Yongwei Chen et.al., Paper: [http://arxiv.org/abs/2210.11277v1](http://arxiv.org/abs/2210.11277v1)
 - 2022-10-20, **Pre-training Language Models with Deterministic Factual Knowledge**, Shaobo Li et.al., Paper: [http://arxiv.org/abs/2210.11165v1](http://arxiv.org/abs/2210.11165v1)
 - 2022-10-19, **Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models**, Yue Zhang et.al., Paper: [http://arxiv.org/abs/2210.10841v1](http://arxiv.org/abs/2210.10841v1)
@@ -107,7 +107,7 @@
 - 2022-10-06, **Distilling Task-specific Logical Rules from Large Pre-trained Models**, Tao Chen et.al., Paper: [http://arxiv.org/abs/2210.02768v1](http://arxiv.org/abs/2210.02768v1)
 - 2022-10-06, **Rapid reconstruction of compact binary sources using meshfree approximation**, Lalit Pathak et.al., Paper: [http://arxiv.org/abs/2210.02706v1](http://arxiv.org/abs/2210.02706v1)
 
-<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
