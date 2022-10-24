@@ -14,6 +14,15 @@
 
 ## Prompt
 
+- 2022-10-21, **Formalizing Chemical Theory using the Lean Theorem Prover**, Maxwell P. Bobbin et.al., Paper: [http://arxiv.org/abs/2210.12150v1](http://arxiv.org/abs/2210.12150v1)
+- 2022-10-21, **Clip-Tuning: Towards Derivative-free Prompt Learning with a Mixture of Rewards**, Yekun Chai et.al., Paper: [http://arxiv.org/abs/2210.12050v1](http://arxiv.org/abs/2210.12050v1)
+- 2022-10-21, **Performance-Efficiency Trade-Offs in Adapting Language Models to Text Classification Tasks**, Laura Aina et.al., Paper: [http://arxiv.org/abs/2210.12022v1](http://arxiv.org/abs/2210.12022v1)
+- 2022-10-21, **Approaches to Identify Vulnerabilities to Misinformation: A Research Agenda**, Nattapat Boonprakong et.al., Paper: [http://arxiv.org/abs/2210.11647v1](http://arxiv.org/abs/2210.11647v1)
+- 2022-10-20, **X-Ray Luminous Supernovae: Threats to Terrestrial Biospheres**, Ian R. Brunton et.al., Paper: [http://arxiv.org/abs/2210.11622v1](http://arxiv.org/abs/2210.11622v1)
+- 2022-10-20, **Boosting Natural Language Generation from Instructions with Meta-Learning**, Budhaditya Deb et.al., Paper: [http://arxiv.org/abs/2210.11617v1](http://arxiv.org/abs/2210.11617v1)
+- 2022-10-20, **Large Language Models Can Self-Improve**, Jiaxin Huang et.al., Paper: [http://arxiv.org/abs/2210.11610v1](http://arxiv.org/abs/2210.11610v1)
+- 2022-10-20, **3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows**, Vivian Liu et.al., Paper: [http://arxiv.org/abs/2210.11603v1](http://arxiv.org/abs/2210.11603v1)
+- 2022-10-20, **Discriminatory and orthogonal feature learning for noise robust keyword spotting**, Donghyeon Kim et.al., Paper: [http://arxiv.org/abs/2210.11519v1](http://arxiv.org/abs/2210.11519v1)
 - 2022-10-20, **ObSynth: An Interactive Synthesis System for Generating Object Models from Natural Language Specifications**, Alex Gu et.al., Paper: [http://arxiv.org/abs/2210.11468v1](http://arxiv.org/abs/2210.11468v1)
 - 2022-10-20, **DiffEdit: Diffusion-based semantic image editing with mask guidance**, Guillaume Couairon et.al., Paper: [http://arxiv.org/abs/2210.11427v1](http://arxiv.org/abs/2210.11427v1)
 - 2022-10-21, **Scaling Instruction-Finetuned Language Models**, Hyung Won Chung et.al., Paper: [http://arxiv.org/abs/2210.11416v2](http://arxiv.org/abs/2210.11416v2), Code: **[https://github.com/google-research/t5x](https://github.com/google-research/t5x)**
