@@ -14,6 +14,16 @@
 
 ## Prompt
 
+- 2022-10-24, **"Covid vaccine is against Covid but Oxford vaccine is made at Oxford!" Semantic Interpretation of Proper Noun Compounds**, Keshav Kolluru et.al., Paper: [http://arxiv.org/abs/2210.13039v1](http://arxiv.org/abs/2210.13039v1)
+- 2022-10-23, **Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language**, Xingyao Wang et.al., Paper: [http://arxiv.org/abs/2210.12810v1](http://arxiv.org/abs/2210.12810v1)
+- 2022-10-23, **Discriminative Language Model as Semantic Consistency Scorer for Prompt-based Few-Shot Text Classification**, Zhipeng Xie et.al., Paper: [http://arxiv.org/abs/2210.12763v1](http://arxiv.org/abs/2210.12763v1)
+- 2022-10-23, **Learning to Perform Complex Tasks through Compositional Fine-Tuning of Language Models**, Victor S. Bursztyn et.al., Paper: [http://arxiv.org/abs/2210.12607v1](http://arxiv.org/abs/2210.12607v1), Code: **[https://github.com/vbursztyn/compositional-fine-tuning](https://github.com/vbursztyn/compositional-fine-tuning)**
+- 2022-10-23, **Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning**, Xiangyu Peng et.al., Paper: [http://arxiv.org/abs/2210.12587v1](http://arxiv.org/abs/2210.12587v1)
+- 2022-10-22, **Exploring The Landscape of Distributional Robustness for Question Answering Models**, Anas Awadalla et.al., Paper: [http://arxiv.org/abs/2210.12517v1](http://arxiv.org/abs/2210.12517v1)
+- 2022-10-22, **Generative Prompt Tuning for Relation Classification**, Jiale Han et.al., Paper: [http://arxiv.org/abs/2210.12435v1](http://arxiv.org/abs/2210.12435v1), Code: **[https://github.com/hanjiale/genpt](https://github.com/hanjiale/genpt)**
+- 2022-10-22, **Upgrade and commissioning of the ALICE muon spectrometer**, Livia Terlizzi et.al., Paper: [http://arxiv.org/abs/2210.12431v1](http://arxiv.org/abs/2210.12431v1)
+- 2022-10-22, **Prompt-Tuning Can Be Much Better Than Fine-Tuning on Cross-lingual Understanding With Multilingual Language Models**, Lifu Tu et.al., Paper: [http://arxiv.org/abs/2210.12360v1](http://arxiv.org/abs/2210.12360v1)
+- 2022-10-22, **Leveraging Large Language Models for Multiple Choice Question Answering**, Joshua Robinson et.al., Paper: [http://arxiv.org/abs/2210.12353v1](http://arxiv.org/abs/2210.12353v1)
 - 2022-10-21, **Formalizing Chemical Theory using the Lean Theorem Prover**, Maxwell P. Bobbin et.al., Paper: [http://arxiv.org/abs/2210.12150v1](http://arxiv.org/abs/2210.12150v1)
 - 2022-10-21, **Clip-Tuning: Towards Derivative-free Prompt Learning with a Mixture of Rewards**, Yekun Chai et.al., Paper: [http://arxiv.org/abs/2210.12050v1](http://arxiv.org/abs/2210.12050v1)
 - 2022-10-21, **Performance-Efficiency Trade-Offs in Adapting Language Models to Text Classification Tasks**, Laura Aina et.al., Paper: [http://arxiv.org/abs/2210.12022v1](http://arxiv.org/abs/2210.12022v1)
