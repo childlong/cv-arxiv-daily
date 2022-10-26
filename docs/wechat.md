@@ -14,6 +14,15 @@
 
 ## Prompt
 
+- 2022-10-25, **Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**, Maximillian Chen et.al., Paper: [http://arxiv.org/abs/2210.14169v1](http://arxiv.org/abs/2210.14169v1)
+- 2022-10-25, **Tuning the pH Response of Monolayer Hexagonal Boron Nitride/Graphene Field-Effect Transistors**, Nicholas E. Fuhr et.al., Paper: [http://arxiv.org/abs/2210.14133v1](http://arxiv.org/abs/2210.14133v1)
+- 2022-10-25, **Model constraints based on the IceCube neutrino non-detection of GRB 201009A**, Shunke Ai et.al., Paper: [http://arxiv.org/abs/2210.14116v1](http://arxiv.org/abs/2210.14116v1)
+- 2022-10-25, **This joke is [MASK]: Recognizing Humor and Offense with Prompting**, Junze Li et.al., Paper: [http://arxiv.org/abs/2210.13985v1](http://arxiv.org/abs/2210.13985v1)
+- 2022-10-25, **Differentially Private Language Models for Secure Data Sharing**, Justus Mattern et.al., Paper: [http://arxiv.org/abs/2210.13918v1](http://arxiv.org/abs/2210.13918v1)
+- 2022-10-25, **Multilingual Relation Classification via Efficient and Effective Prompting**, Yuxuan Chen et.al., Paper: [http://arxiv.org/abs/2210.13838v1](http://arxiv.org/abs/2210.13838v1)
+- 2022-10-25, **Purity enhances criteria for correlated quantum network states**, Zhen-Peng Xu et.al., Paper: [http://arxiv.org/abs/2210.13751v1](http://arxiv.org/abs/2210.13751v1)
+- 2022-10-25, **Better Few-Shot Relation Extraction with Label Prompt Dropout**, Peiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2210.13733v1](http://arxiv.org/abs/2210.13733v1)
+- 2022-10-25, **XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing**, Peng Shi et.al., Paper: [http://arxiv.org/abs/2210.13693v1](http://arxiv.org/abs/2210.13693v1)
 - 2022-10-24, **"Covid vaccine is against Covid but Oxford vaccine is made at Oxford!" Semantic Interpretation of Proper Noun Compounds**, Keshav Kolluru et.al., Paper: [http://arxiv.org/abs/2210.13039v1](http://arxiv.org/abs/2210.13039v1)
 - 2022-10-23, **Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language**, Xingyao Wang et.al., Paper: [http://arxiv.org/abs/2210.12810v1](http://arxiv.org/abs/2210.12810v1)
 - 2022-10-23, **Discriminative Language Model as Semantic Consistency Scorer for Prompt-based Few-Shot Text Classification**, Zhipeng Xie et.al., Paper: [http://arxiv.org/abs/2210.12763v1](http://arxiv.org/abs/2210.12763v1)
