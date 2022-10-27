@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.26
+## Updated on 2022.10.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,12 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-25**|**Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**|Maximillian Chen et.al.|[2210.14169v1](http://arxiv.org/abs/2210.14169v1)|null|
+|**2022-10-26**|**Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**|Maximillian Chen et.al.|[2210.14169v2](http://arxiv.org/abs/2210.14169v2)|null|
 |**2022-10-25**|**Tuning the pH Response of Monolayer Hexagonal Boron Nitride/Graphene Field-Effect Transistors**|Nicholas E. Fuhr et.al.|[2210.14133v1](http://arxiv.org/abs/2210.14133v1)|null|
-|**2022-10-25**|**Model constraints based on the IceCube neutrino non-detection of GRB 201009A**|Shunke Ai et.al.|[2210.14116v1](http://arxiv.org/abs/2210.14116v1)|null|
+|**2022-10-26**|**Model constraints based on the IceCube neutrino non-detection of GRB 221009A**|Shunke Ai et.al.|[2210.14116v2](http://arxiv.org/abs/2210.14116v2)|null|
 |**2022-10-25**|**This joke is [MASK]: Recognizing Humor and Offense with Prompting**|Junze Li et.al.|[2210.13985v1](http://arxiv.org/abs/2210.13985v1)|null|
-|**2022-10-25**|**Differentially Private Language Models for Secure Data Sharing**|Justus Mattern et.al.|[2210.13918v1](http://arxiv.org/abs/2210.13918v1)|null|
-|**2022-10-25**|**Multilingual Relation Classification via Efficient and Effective Prompting**|Yuxuan Chen et.al.|[2210.13838v1](http://arxiv.org/abs/2210.13838v1)|**[link](https://github.com/dfki-nlp/meffi-prompt)**|
+|**2022-10-26**|**Differentially Private Language Models for Secure Data Sharing**|Justus Mattern et.al.|[2210.13918v2](http://arxiv.org/abs/2210.13918v2)|null|
+|**2022-10-26**|**Multilingual Relation Classification via Efficient and Effective Prompting**|Yuxuan Chen et.al.|[2210.13838v2](http://arxiv.org/abs/2210.13838v2)|**[link](https://github.com/dfki-nlp/meffi-prompt)**|
 |**2022-10-25**|**Purity enhances criteria for correlated quantum network states**|Zhen-Peng Xu et.al.|[2210.13751v1](http://arxiv.org/abs/2210.13751v1)|null|
 |**2022-10-25**|**Better Few-Shot Relation Extraction with Label Prompt Dropout**|Peiyuan Zhang et.al.|[2210.13733v1](http://arxiv.org/abs/2210.13733v1)|**[link](https://github.com/jzhang38/lpd)**|
 |**2022-10-25**|**XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing**|Peng Shi et.al.|[2210.13693v1](http://arxiv.org/abs/2210.13693v1)|null|
@@ -137,7 +137,7 @@
 |**2022-10-06**|**Distilling Task-specific Logical Rules from Large Pre-trained Models**|Tao Chen et.al.|[2210.02768v1](http://arxiv.org/abs/2210.02768v1)|null|
 |**2022-10-06**|**Rapid reconstruction of compact binary sources using meshfree approximation**|Lalit Pathak et.al.|[2210.02706v1](http://arxiv.org/abs/2210.02706v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221027>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
