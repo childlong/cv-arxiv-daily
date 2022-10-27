@@ -20,6 +20,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-26**|**DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models**|Zijie J. Wang et.al.|[2210.14896v1](http://arxiv.org/abs/2210.14896v1)|**[link](https://github.com/poloclub/diffusiondb)**|
+|**2022-10-26**|**Broken Neural Scaling Laws**|Ethan Caballero et.al.|[2210.14891v1](http://arxiv.org/abs/2210.14891v1)|null|
+|**2022-10-26**|**Multi-lingual Evaluation of Code Generation Models**|Ben Athiwaratkun et.al.|[2210.14868v1](http://arxiv.org/abs/2210.14868v1)|null|
+|**2022-10-26**|**Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models**|Mozes van de Kar et.al.|[2210.14803v1](http://arxiv.org/abs/2210.14803v1)|null|
+|**2022-10-26**|**Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic?**|Jean-Baptiste Döderlein et.al.|[2210.14699v1](http://arxiv.org/abs/2210.14699v1)|null|
+|**2022-10-26**|**Inducer-tuning: Connecting Prefix-tuning and Adapter-tuning**|Yifan Chen et.al.|[2210.14469v1](http://arxiv.org/abs/2210.14469v1)|**[link](https://github.com/ychen-stat-ml/kernel-adapters)**|
+|**2022-10-26**|**Bi-Link: Bridging Inductive Link Predictions from Text via Contrastive Learning of Transformers and Prompts**|Bohua Peng et.al.|[2210.14463v1](http://arxiv.org/abs/2210.14463v1)|null|
+|**2022-10-25**|**Community Report from the Biosignatures Standards of Evidence Workshop**|Victoria Meadows et.al.|[2210.14293v1](http://arxiv.org/abs/2210.14293v1)|null|
 |**2022-10-26**|**Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**|Maximillian Chen et.al.|[2210.14169v2](http://arxiv.org/abs/2210.14169v2)|null|
 |**2022-10-25**|**Tuning the pH Response of Monolayer Hexagonal Boron Nitride/Graphene Field-Effect Transistors**|Nicholas E. Fuhr et.al.|[2210.14133v1](http://arxiv.org/abs/2210.14133v1)|null|
 |**2022-10-26**|**Model constraints based on the IceCube neutrino non-detection of GRB 221009A**|Shunke Ai et.al.|[2210.14116v2](http://arxiv.org/abs/2210.14116v2)|null|
