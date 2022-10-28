@@ -16,6 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-27**|**Novel photon timing techniques applied to the LHCb RICH upgrade programme**|Floris Keizer et.al.|[2210.15309v1](http://arxiv.org/abs/2210.15309v1)|null|
+|**2022-10-27**|**Explaining the Explainers in Graph Neural Networks: a Comparative Study**|Antonio Longa et.al.|[2210.15304v1](http://arxiv.org/abs/2210.15304v1)|null|
+|**2022-10-27**|**Can language models handle recursively nested grammatical structures? A case study on comparing models and humans**|Andrew Kyle Lampinen et.al.|[2210.15303v1](http://arxiv.org/abs/2210.15303v1)|null|
+|**2022-10-27**|**ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts**|Zhida Feng et.al.|[2210.15257v1](http://arxiv.org/abs/2210.15257v1)|null|
+|**2022-10-27**|**How well can Text-to-Image Generative Models understand Ethical Natural Language Interventions?**|Hritik Bansal et.al.|[2210.15230v1](http://arxiv.org/abs/2210.15230v1)|**[link](https://github.com/hritikbansal/entigen_emnlp)**|
+|**2022-10-27**|**Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language**|Paul Denny et.al.|[2210.15157v1](http://arxiv.org/abs/2210.15157v1)|null|
+|**2022-10-27**|**Gendered Mental Health Stigma in Masked Language Models**|Inna Wanyin Lin et.al.|[2210.15144v1](http://arxiv.org/abs/2210.15144v1)|null|
+|**2022-10-26**|**Improving Adversarial Robustness with Self-Paced Hard-Class Pair Reweighting**|Pengyue Hou et.al.|[2210.15068v1](http://arxiv.org/abs/2210.15068v1)|null|
+|**2022-10-26**|**Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory**|Nikhil Sarin et.al.|[2210.14938v1](http://arxiv.org/abs/2210.14938v1)|null|
 |**2022-10-26**|**DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models**|Zijie J. Wang et.al.|[2210.14896v1](http://arxiv.org/abs/2210.14896v1)|**[link](https://github.com/poloclub/diffusiondb)**|
 |**2022-10-26**|**Broken Neural Scaling Laws**|Ethan Caballero et.al.|[2210.14891v1](http://arxiv.org/abs/2210.14891v1)|null|
 |**2022-10-26**|**Multi-lingual Evaluation of Code Generation Models**|Ben Athiwaratkun et.al.|[2210.14868v1](http://arxiv.org/abs/2210.14868v1)|null|
