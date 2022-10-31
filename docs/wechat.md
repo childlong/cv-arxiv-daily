@@ -14,6 +14,13 @@
 
 ## Prompt
 
+- 2022-10-28, **ALICE upgrades for Run 4 and Run 5**, A. Ferretti et.al., Paper: [http://arxiv.org/abs/2210.16241v1](http://arxiv.org/abs/2210.16241v1)
+- 2022-10-28, **MagicMix: Semantic Mixing with Diffusion Models**, Jun Hao Liew et.al., Paper: [http://arxiv.org/abs/2210.16056v1](http://arxiv.org/abs/2210.16056v1)
+- 2022-10-28, **UPainting: Unified Text-to-Image Diffusion Generation with Cross-modal Guidance**, Wei Li et.al., Paper: [http://arxiv.org/abs/2210.16031v1](http://arxiv.org/abs/2210.16031v1)
+- 2022-10-28, **OhMG: Zero-shot Open-vocabulary Human Motion Generation**, Junfan Lin et.al., Paper: [http://arxiv.org/abs/2210.15929v1](http://arxiv.org/abs/2210.15929v1)
+- 2022-10-28, **Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction**, Lu Dai et.al., Paper: [http://arxiv.org/abs/2210.15843v1](http://arxiv.org/abs/2210.15843v1), Code: **[https://github.com/hustminslab/bip](https://github.com/hustminslab/bip)**
+- 2022-10-27, **Quantum Mechanics: Statistical Balance Prompts Caution in Assessing Conceptual Implications**, Brian Drummond et.al., Paper: [http://arxiv.org/abs/2210.15710v1](http://arxiv.org/abs/2210.15710v1)
+- 2022-10-27, **Dynamics of a relativistic jet through magnetized media**, Leonardo Garcia-Garcia et.al., Paper: [http://arxiv.org/abs/2210.15698v1](http://arxiv.org/abs/2210.15698v1)
 - 2022-10-27, **Novel photon timing techniques applied to the LHCb RICH upgrade programme**, Floris Keizer et.al., Paper: [http://arxiv.org/abs/2210.15309v1](http://arxiv.org/abs/2210.15309v1)
 - 2022-10-27, **Explaining the Explainers in Graph Neural Networks: a Comparative Study**, Antonio Longa et.al., Paper: [http://arxiv.org/abs/2210.15304v1](http://arxiv.org/abs/2210.15304v1)
 - 2022-10-27, **Can language models handle recursively nested grammatical structures? A case study on comparing models and humans**, Andrew Kyle Lampinen et.al., Paper: [http://arxiv.org/abs/2210.15303v1](http://arxiv.org/abs/2210.15303v1)
