@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.31
+## Updated on 2022.11.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,13 +22,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-10-28**|**ALICE upgrades for Run 4 and Run 5**|A. Ferretti et.al.|[2210.16241v1](http://arxiv.org/abs/2210.16241v1)|null|
 |**2022-10-28**|**MagicMix: Semantic Mixing with Diffusion Models**|Jun Hao Liew et.al.|[2210.16056v1](http://arxiv.org/abs/2210.16056v1)|null|
-|**2022-10-28**|**UPainting: Unified Text-to-Image Diffusion Generation with Cross-modal Guidance**|Wei Li et.al.|[2210.16031v1](http://arxiv.org/abs/2210.16031v1)|null|
+|**2022-10-31**|**UPainting: Unified Text-to-Image Diffusion Generation with Cross-modal Guidance**|Wei Li et.al.|[2210.16031v2](http://arxiv.org/abs/2210.16031v2)|null|
 |**2022-10-28**|**OhMG: Zero-shot Open-vocabulary Human Motion Generation**|Junfan Lin et.al.|[2210.15929v1](http://arxiv.org/abs/2210.15929v1)|null|
 |**2022-10-28**|**Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction**|Lu Dai et.al.|[2210.15843v1](http://arxiv.org/abs/2210.15843v1)|**[link](https://github.com/hustminslab/bip)**|
 |**2022-10-27**|**Quantum Mechanics: Statistical Balance Prompts Caution in Assessing Conceptual Implications**|Brian Drummond et.al.|[2210.15710v1](http://arxiv.org/abs/2210.15710v1)|null|
 |**2022-10-27**|**Dynamics of a relativistic jet through magnetized media**|Leonardo Garcia-Garcia et.al.|[2210.15698v1](http://arxiv.org/abs/2210.15698v1)|null|
 |**2022-10-27**|**Novel photon timing techniques applied to the LHCb RICH upgrade programme**|Floris Keizer et.al.|[2210.15309v1](http://arxiv.org/abs/2210.15309v1)|null|
-|**2022-10-27**|**Explaining the Explainers in Graph Neural Networks: a Comparative Study**|Antonio Longa et.al.|[2210.15304v1](http://arxiv.org/abs/2210.15304v1)|null|
+|**2022-10-27**|**Explaining the Explainers in Graph Neural Networks: a Comparative Study**|Antonio Longa et.al.|[2210.15304v1](http://arxiv.org/abs/2210.15304v1)|**[link](https://github.com/antoniolonga/explaining-the-explainers-in-graph-neural-networks)**|
 |**2022-10-27**|**Can language models handle recursively nested grammatical structures? A case study on comparing models and humans**|Andrew Kyle Lampinen et.al.|[2210.15303v1](http://arxiv.org/abs/2210.15303v1)|null|
 |**2022-10-27**|**ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts**|Zhida Feng et.al.|[2210.15257v1](http://arxiv.org/abs/2210.15257v1)|null|
 |**2022-10-27**|**How well can Text-to-Image Generative Models understand Ethical Natural Language Interventions?**|Hritik Bansal et.al.|[2210.15230v1](http://arxiv.org/abs/2210.15230v1)|**[link](https://github.com/hritikbansal/entigen_emnlp)**|
@@ -165,7 +165,7 @@ layout: default
 |**2022-10-06**|**Distilling Task-specific Logical Rules from Large Pre-trained Models**|Tao Chen et.al.|[2210.02768v1](http://arxiv.org/abs/2210.02768v1)|null|
 |**2022-10-06**|**Rapid reconstruction of compact binary sources using meshfree approximation**|Lalit Pathak et.al.|[2210.02706v1](http://arxiv.org/abs/2210.02706v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
