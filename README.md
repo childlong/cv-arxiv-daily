@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-31**|**Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy**|Daphne Ippolito et.al.|[2210.17546v1](http://arxiv.org/abs/2210.17546v1)|null|
+|**2022-10-31**|**Query Refinement Prompts for Closed-Book Long-Form Question Answering**|Reinald Kim Amplayo et.al.|[2210.17525v1](http://arxiv.org/abs/2210.17525v1)|null|
+|**2022-10-31**|**On the Geometry Transferability of the Hybrid Iterative Numerical Solver for Differential Equations**|Adar Kahana et.al.|[2210.17392v1](http://arxiv.org/abs/2210.17392v1)|null|
+|**2022-10-31**|**Towards Zero-Shot and Few-Shot Table Question Answering using GPT-3**|Pragya Srivastava et.al.|[2210.17284v1](http://arxiv.org/abs/2210.17284v1)|null|
+|**2022-10-31**|**Pneg: Prompt-based Negative Response Generation for Dialogue Response Selection Task**|Nyoungwoo Lee et.al.|[2210.17238v1](http://arxiv.org/abs/2210.17238v1)|null|
+|**2022-10-31**|**GPS: Genetic Prompt Search for Efficient Few-shot Learning**|Hanwei Xu et.al.|[2210.17041v1](http://arxiv.org/abs/2210.17041v1)|**[link](https://github.com/hwxu20/gps)**|
+|**2022-10-30**|**Instrumentation for correlated prompt $n$-$γ$ emission studies in coincidence with fission fragments**|S. Marin et.al.|[2210.16925v1](http://arxiv.org/abs/2210.16925v1)|null|
+|**2022-10-30**|**Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework**|Yiming Chen et.al.|[2210.16798v1](http://arxiv.org/abs/2210.16798v1)|**[link](https://github.com/matthewcym/gense)**|
+|**2022-10-29**|**Physical mechanisms affecting critical angle for nanopatterning in irradiated thin films: I. A composite model**|Tyler Evans et.al.|[2210.16688v1](http://arxiv.org/abs/2210.16688v1)|null|
+|**2022-10-29**|**Beyond prompting: Making Pre-trained Language Models Better Zero-shot Learners by Clustering Representations**|Yu Fei et.al.|[2210.16637v1](http://arxiv.org/abs/2210.16637v1)|**[link](https://github.com/fywalter/simptc)**|
 |**2022-10-28**|**ALICE upgrades for Run 4 and Run 5**|A. Ferretti et.al.|[2210.16241v1](http://arxiv.org/abs/2210.16241v1)|null|
 |**2022-10-28**|**MagicMix: Semantic Mixing with Diffusion Models**|Jun Hao Liew et.al.|[2210.16056v1](http://arxiv.org/abs/2210.16056v1)|null|
 |**2022-10-31**|**UPainting: Unified Text-to-Image Diffusion Generation with Cross-modal Guidance**|Wei Li et.al.|[2210.16031v2](http://arxiv.org/abs/2210.16031v2)|null|
