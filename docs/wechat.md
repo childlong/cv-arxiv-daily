@@ -14,6 +14,9 @@
 
 ## Prompt
 
+- 2022-11-01, **Preserving In-Context Learning ability in Large Language Model Fine-tuning**, Yihan Wang et.al., Paper: [http://arxiv.org/abs/2211.00635v1](http://arxiv.org/abs/2211.00635v1)
+- 2022-10-31, **A Simple, Yet Effective Approach to Finding Biases in Code Generation**, Spyridon Mouselinos et.al., Paper: [http://arxiv.org/abs/2211.00609v1](http://arxiv.org/abs/2211.00609v1)
+- 2022-10-31, **Generating Sequences by Learning to Self-Correct**, Sean Welleck et.al., Paper: [http://arxiv.org/abs/2211.00053v1](http://arxiv.org/abs/2211.00053v1)
 - 2022-10-31, **Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy**, Daphne Ippolito et.al., Paper: [http://arxiv.org/abs/2210.17546v1](http://arxiv.org/abs/2210.17546v1)
 - 2022-10-31, **Query Refinement Prompts for Closed-Book Long-Form Question Answering**, Reinald Kim Amplayo et.al., Paper: [http://arxiv.org/abs/2210.17525v1](http://arxiv.org/abs/2210.17525v1)
 - 2022-10-31, **On the Geometry Transferability of the Hybrid Iterative Numerical Solver for Differential Equations**, Adar Kahana et.al., Paper: [http://arxiv.org/abs/2210.17392v1](http://arxiv.org/abs/2210.17392v1)
