@@ -16,6 +16,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers**|Yogesh Balaji et.al.|[2211.01324v1](http://arxiv.org/abs/2211.01324v1)|null|
+|**2022-11-02**|**Audio Language Modeling using Perceptually-Guided Discrete Representations**|Felix Kreuk et.al.|[2211.01223v1](http://arxiv.org/abs/2211.01223v1)|null|
+|**2022-11-02**|**Spot the fake lungs: Generating Synthetic Medical Images using Neural Diffusion Models**|Hazrat Ali et.al.|[2211.00902v1](http://arxiv.org/abs/2211.00902v1)|null|
+|**2022-11-02**|**P$^3$OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection**|Yanxin Long et.al.|[2211.00849v1](http://arxiv.org/abs/2211.00849v1)|null|
+|**2022-11-02**|**Learning a Condensed Frame for Memory-Efficient Video Class-Incremental Learning**|Yixuan Pei et.al.|[2211.00833v1](http://arxiv.org/abs/2211.00833v1)|null|
+|**2022-11-02**|**Study of the $B^{-} \to Λ_{c}^{+} \barΛ_{c}^{-} K^{-}$ decay**|LHCb collaboration et.al.|[2211.00812v1](http://arxiv.org/abs/2211.00812v1)|null|
+|**2022-11-01**|**Constraints on Electron Acceleration in Gamma-Ray Bursts Afterglows from Radio Peaks**|Ruby A. Duncan et.al.|[2211.00686v1](http://arxiv.org/abs/2211.00686v1)|null|
 |**2022-11-01**|**Preserving In-Context Learning ability in Large Language Model Fine-tuning**|Yihan Wang et.al.|[2211.00635v1](http://arxiv.org/abs/2211.00635v1)|null|
 |**2022-10-31**|**A Simple, Yet Effective Approach to Finding Biases in Code Generation**|Spyridon Mouselinos et.al.|[2211.00609v1](http://arxiv.org/abs/2211.00609v1)|null|
 |**2022-10-31**|**Generating Sequences by Learning to Self-Correct**|Sean Welleck et.al.|[2211.00053v1](http://arxiv.org/abs/2211.00053v1)|null|
