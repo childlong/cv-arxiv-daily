@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.28
+## Updated on 2022.11.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -181,7 +181,7 @@
 |**2022-10-06**|**Distilling Task-specific Logical Rules from Large Pre-trained Models**|Tao Chen et.al.|[2210.02768v1](http://arxiv.org/abs/2210.02768v1)|null|
 |**2022-10-06**|**Rapid reconstruction of compact binary sources using meshfree approximation**|Lalit Pathak et.al.|[2210.02706v1](http://arxiv.org/abs/2210.02706v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
