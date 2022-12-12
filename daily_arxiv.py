@@ -230,6 +230,7 @@ if __name__ == "__main__":
     keywords["OV"] = "ti:Open-vocabulary+OR+ti:Open-Vocabulary"
     keywords["Prompt"] = "ti:Prompt+OR+ti:Prompting"
     keywords["COT"] = "ti:Chain-of-Thought"
+    keywords["Waymo"] = "ti:waymo"
 
     for topic,keyword in keywords.items():
  
