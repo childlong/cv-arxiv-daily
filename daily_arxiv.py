@@ -44,7 +44,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     cnt = 0
 
     for result in search_engine.results():
-
+        print("result:", result)
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
