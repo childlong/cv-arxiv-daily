@@ -9,6 +9,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#Prompt>Prompt</a></li>
+    <li><a href=#Waymo>Waymo</a></li>
   </ol>
 </details>
 
@@ -178,6 +179,21 @@
 - 2022-10-06, **Binding Language Models in Symbolic Languages**, Zhoujun Cheng et.al., Paper: [http://arxiv.org/abs/2210.02875v1](http://arxiv.org/abs/2210.02875v1), Code: **[https://github.com/hkunlp/binder](https://github.com/hkunlp/binder)**
 - 2022-10-06, **Distilling Task-specific Logical Rules from Large Pre-trained Models**, Tao Chen et.al., Paper: [http://arxiv.org/abs/2210.02768v1](http://arxiv.org/abs/2210.02768v1)
 - 2022-10-06, **Rapid reconstruction of compact binary sources using meshfree approximation**, Lalit Pathak et.al., Paper: [http://arxiv.org/abs/2210.02706v1](http://arxiv.org/abs/2210.02706v1)
+
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
+
+## Waymo
+
+- 2022-09-20, **MTR-A: 1st Place Solution for 2022 Waymo Open Dataset Challenge -- Motion Prediction**, Shaoshuai Shi et.al., Paper: [http://arxiv.org/abs/2209.10033v1](http://arxiv.org/abs/2209.10033v1), Code: **[https://github.com/sshaoshuai/mtr](https://github.com/sshaoshuai/mtr)**
+- 2022-08-26, **Waymo's Fatigue Risk Management Framework: Prevention, Monitoring, and Mitigation of Fatigue-Induced Risks while Testing Automated Driving Systems**, Francesca Favaro et.al., Paper: [http://arxiv.org/abs/2208.12833v1](http://arxiv.org/abs/2208.12833v1)
+- 2022-07-11, **MT-Net Submission to the Waymo 3D Detection Leaderboard**, Shaoxiang Chen et.al., Paper: [http://arxiv.org/abs/2207.04781v1](http://arxiv.org/abs/2207.04781v1)
+- 2022-06-15, **Waymo Open Dataset: Panoramic Video Panoptic Segmentation**, Jieru Mei et.al., Paper: [http://arxiv.org/abs/2206.07704v1](http://arxiv.org/abs/2206.07704v1)
+- 2021-09-26, **DenseTNT: Waymo Open Dataset Motion Prediction Challenge 1st Place Solution**, Junru Gu et.al., Paper: [http://arxiv.org/abs/2106.14160v2](http://arxiv.org/abs/2106.14160v2), Code: **[https://github.com/Tsinghua-MARS-Lab/DenseTNT](https://github.com/Tsinghua-MARS-Lab/DenseTNT)**
+- 2021-06-16, **2nd Place Solution for Waymo Open Dataset Challenge -- Real-time 2D Object Detection**, Yueming Zhang et.al., Paper: [http://arxiv.org/abs/2106.08713v1](http://arxiv.org/abs/2106.08713v1)
+- 2021-04-20, **Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset**, Scott Ettinger et.al., Paper: [http://arxiv.org/abs/2104.10133v1](http://arxiv.org/abs/2104.10133v1)
+- 2020-10-30, **Waymo's Safety Methodologies and Safety Readiness Determinations**, Nick Webb et.al., Paper: [http://arxiv.org/abs/2011.00054v1](http://arxiv.org/abs/2011.00054v1)
+- 2020-10-30, **Waymo Public Road Safety Performance Data**, Matthew Schwall et.al., Paper: [http://arxiv.org/abs/2011.00038v1](http://arxiv.org/abs/2011.00038v1)
+- 2020-08-28, **PV-RCNN: The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges**, Shaoshuai Shi et.al., Paper: [http://arxiv.org/abs/2008.12599v1](http://arxiv.org/abs/2008.12599v1), Code: **[https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)**
 
 <p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
