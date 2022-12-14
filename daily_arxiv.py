@@ -231,6 +231,7 @@ if __name__ == "__main__":
     keywords["Prompt"] = "ti:Prompt+OR+ti:Prompting"
     keywords["COT"] = "ti:Chain-of-Thought"
     keywords["Waymo"] = "au:waymo"
+    keywords["VLP"] = "au:%22Wenhui Wang%22+OR+au:%22Hangbo Bao%22+OR+au:%22Li Dong%22+OR+au:%22Furu Wei%22"
 
     for topic,keyword in keywords.items():
  
