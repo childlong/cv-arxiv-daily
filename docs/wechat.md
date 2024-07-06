@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.07.05
+> Updated on 2024.07.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -180,7 +180,7 @@
 - 2022-10-06, **Distilling Task-specific Logical Rules from Large Pre-trained Models**, Tao Chen et.al., Paper: [http://arxiv.org/abs/2210.02768v1](http://arxiv.org/abs/2210.02768v1)
 - 2022-10-06, **Rapid reconstruction of compact binary sources using meshfree approximation**, Lalit Pathak et.al., Paper: [http://arxiv.org/abs/2210.02706v1](http://arxiv.org/abs/2210.02706v1)
 
-<p align=right>(<a href=#Updated-on-20240705>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240706>back to top</a>)</p>
 
 ## Waymo
 
@@ -195,7 +195,7 @@
 - 2020-10-30, **Waymo Public Road Safety Performance Data**, Matthew Schwall et.al., Paper: [http://arxiv.org/abs/2011.00038v1](http://arxiv.org/abs/2011.00038v1)
 - 2020-08-28, **PV-RCNN: The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges**, Shaoshuai Shi et.al., Paper: [http://arxiv.org/abs/2008.12599v1](http://arxiv.org/abs/2008.12599v1), Code: **[https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)**
 
-<p align=right>(<a href=#Updated-on-20240705>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240706>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
