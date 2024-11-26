@@ -184,7 +184,7 @@
 
 ## Waymo
 
-- 2024-11-08, **Developing a Safety Management System for the Autonomous Vehicle Industry**, David Wichner et.al., Paper: [http://arxiv.org/abs/2411.06010v1](http://arxiv.org/abs/2411.06010v1)
+- 2024-11-21, **Developing a Safety Management System for the Autonomous Vehicle Industry**, David Wichner et.al., Paper: [http://arxiv.org/abs/2411.06010v2](http://arxiv.org/abs/2411.06010v2)
 - 2022-09-20, **MTR-A: 1st Place Solution for 2022 Waymo Open Dataset Challenge -- Motion Prediction**, Shaoshuai Shi et.al., Paper: [http://arxiv.org/abs/2209.10033v1](http://arxiv.org/abs/2209.10033v1), Code: **[https://github.com/sshaoshuai/mtr](https://github.com/sshaoshuai/mtr)**
 - 2022-08-26, **Waymo's Fatigue Risk Management Framework: Prevention, Monitoring, and Mitigation of Fatigue-Induced Risks while Testing Automated Driving Systems**, Francesca Favaro et.al., Paper: [http://arxiv.org/abs/2208.12833v1](http://arxiv.org/abs/2208.12833v1)
 - 2022-07-11, **MT-Net Submission to the Waymo 3D Detection Leaderboard**, Shaoxiang Chen et.al., Paper: [http://arxiv.org/abs/2207.04781v1](http://arxiv.org/abs/2207.04781v1)
